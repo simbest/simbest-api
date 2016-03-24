@@ -62,7 +62,7 @@
 	
 	<repositories>
 		<repository>
-			<id>simbest-parent-mvn-repo</id>
+			<id>simbest-cores-mvn-repo</id>
 			<url>https://raw.github.com/simbest/simbest-cores/mvn-repo/</url>
 			<snapshots>
 				<enabled>true</enabled>
